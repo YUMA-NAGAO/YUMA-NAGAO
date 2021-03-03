@@ -45,7 +45,7 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
       </td>
       
       
-    </tr>
+ 
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Node.js</strong>
