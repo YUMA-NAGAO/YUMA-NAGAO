@@ -101,25 +101,23 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/優磨-永尾-a3521819b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/YUMA-NAGAO">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
 
   <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
+  <a href="https://www.facebook.com/yuma.nagao0727/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
 
-  <a href="https://twitter.com/parthpatel_27">
+
+  <a href="https://twitter.com/gameacfoapon">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
@@ -134,7 +132,5 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
-
----
-⭐️ From [Parth Patel](https://github.com/parth-27) 
