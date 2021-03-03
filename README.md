@@ -39,23 +39,36 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
         <span><strong>Python</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
+      
+      
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Node.js</strong>
         </span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>C#</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C++</strong></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>GO</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Go_Logo_Aqua.svg/512px-Go_Logo_Aqua.svg.png">
+      </td>
+
+    </tr>
+
+    <tr valign="top">
+          <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -63,24 +76,16 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Django</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-      </td>
+      
     </tr>
   </tbody>
 </table>
