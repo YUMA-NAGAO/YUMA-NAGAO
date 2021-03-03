@@ -78,7 +78,7 @@ Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a T
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
+        <span><strong>C++</strong></span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
       </td>
     </tr>
