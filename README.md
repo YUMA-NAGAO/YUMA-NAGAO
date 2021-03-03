@@ -6,7 +6,9 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I'm a 7th year NNIT student at NumazuKosen. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is Yuma Nagao, I'm a student at National Institute of Technology, Numazu College（NIT, Numazu College）.
+I'm changing from a student engineer to an engineer in April.  
+I'm a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
 
 ## Coding Profiles
