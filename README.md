@@ -10,9 +10,6 @@ Hey My Name is Yuma Nagao, I'm a student at National Institute of Technology, Nu
 I'm changing from a student engineer to an engineer in April.  
 I'm a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
-
-## Coding Profiles
-
 <a href="https://www.codechef.com/users/night_king_">
   <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
