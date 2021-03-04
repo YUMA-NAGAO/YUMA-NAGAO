@@ -132,7 +132,3 @@ I'm a Tech Enthusiast. Looking forward to learn new skills and add them in the l
 </p>
 </h1>
 
-
-<h3>Thanks for Stopping by!! 😊</h3>
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
-
