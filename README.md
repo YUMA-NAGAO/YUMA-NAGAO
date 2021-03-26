@@ -59,7 +59,7 @@ I'm a Tech Enthusiast. Looking forward to learn new skills and add them in the l
       </td>
       <td width="25%" align="center">
         <span><strong>C#</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgNwTQK9cb4WL1b-jTPBg0B3FFmVkHhvKV2Mw5xN1cIxWnZfvGE4KJx8_1HY3OWBPAsM&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span><strong>C++</strong></span><br><br><br>
